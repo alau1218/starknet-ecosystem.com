@@ -1353,4 +1353,5 @@ export const allProjects: Array<Project> = [
     isLive: false,
     isTestnetLive: true,
   },
+  testest
 ];
